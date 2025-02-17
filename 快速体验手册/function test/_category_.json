@@ -2,6 +2,7 @@
   "label": "第三章 功能测试",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description":"本章简介如下：测试板子的资源，验证硬件功能。在这里我们能学习到Linux开发板的测试方法。对我们学习开发板有很大作用。"
   }
 }

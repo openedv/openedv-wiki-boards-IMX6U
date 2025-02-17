@@ -2,6 +2,7 @@
   "label": "第五章 文件系统功能简介",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description":"本章主要简介正点原子I.MX6U出厂文件系统的功能。"
   }
 }

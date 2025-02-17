@@ -2,6 +2,7 @@
   "label": "第二章 使用前准备",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description":"本章简介如下:1. 安装开发板的串口调试驱动，及如何使用串口调试上位机。2. 如何固化出厂时的系统。分为脚本固化与上位机固化。3. 登录开发板。"
   }
 }
