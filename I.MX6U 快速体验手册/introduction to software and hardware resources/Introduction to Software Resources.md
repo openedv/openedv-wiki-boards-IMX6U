@@ -18,7 +18,7 @@ sidebar_position: 2
 
 …等等
 
-详细请看我们的《【正点原子】I.MX6U嵌入式Linux驱动开发指南V1.x.pdf》第五章I.MX6U-ALPHA开发板平台介绍的5.2.2小节。
+详细请看我们的[I.MX6U 硬件参考手册](../../I.MX6U%20硬件参考手册/resource_note.md)。
 
 
 

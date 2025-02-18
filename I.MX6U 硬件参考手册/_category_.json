@@ -1,0 +1,8 @@
+{
+  "label": "I.MX6U硬件参考手册",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description":"要学嵌入式Linux驱动开发肯定需要一个硬件平台，也就俗称的开发板，本书使用的是正点原子出品的I.MX6U-ALPHA/Mini开发板。ALPHA是全功能开发板，Mini是精简版。这两款都是以NXP的I.MX6ULL为核心的Cortex-A7开发平台，板载资源丰富，非常适合以前学过Cortex-M内核单片机(比如STM32)的工程进阶嵌入式Linux开发。工欲善其事，必先利其器，本章我们就先来详细了解一下未来将会陪伴我们很长一段时间的朋友——I.MX6U-ALPHA/Mini开发平台。"
+  }
+}
