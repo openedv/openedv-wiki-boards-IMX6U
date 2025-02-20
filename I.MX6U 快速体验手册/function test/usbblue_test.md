@@ -162,8 +162,8 @@ connect 60:AB:67:65:93:E8
 
 ## 3.29.2 蓝牙音乐
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>ALPHA</th>
     <th>MINI</th>

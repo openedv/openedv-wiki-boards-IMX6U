@@ -205,8 +205,8 @@ sidebar_position: 2
 
 &emsp;&emsp;接下来看一下`I.MX6U-ALPHA`开发板的裸机例程，如下表所示：
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>编号</th>
     <th>实验名字</th>
@@ -295,8 +295,8 @@ sidebar_position: 2
 
 &emsp;&emsp;看完裸机例程以后我们最后再来看一下正点原子为`I.MX6U-ALPHA`开发板准备的嵌入式Linux驱动例程，如下表所示：
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>编号</th>
     <th>实验名字</th>

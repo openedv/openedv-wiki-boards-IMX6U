@@ -5,8 +5,8 @@ sidebar_position: 23
 
 # 3.23 ME3630-W 4G模块测试
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>ALPHA</th>
     <th>MINI</th>

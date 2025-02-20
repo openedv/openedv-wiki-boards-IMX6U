@@ -11,8 +11,8 @@ sidebar_position: 1
 &emsp;&emsp;开发板与LED和蜂鸣器对应的管脚关系如下：
 
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>开发板</th>
     <th>GPIO03</th>

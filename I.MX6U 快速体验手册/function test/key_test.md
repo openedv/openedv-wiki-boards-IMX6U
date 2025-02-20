@@ -7,8 +7,8 @@ sidebar_position: 2
 
 &emsp;&emsp;底板上按键对应的管脚关系如下：
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>开发板</th>
     <th>GPIO18</th>

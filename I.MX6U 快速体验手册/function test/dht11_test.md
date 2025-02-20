@@ -7,8 +7,8 @@ sidebar_position: 31
 
 &emsp;&emsp;开发板用于测试DHT11对应的管脚关系如下：
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>开发板</th>
     <th>GPIO1</th>

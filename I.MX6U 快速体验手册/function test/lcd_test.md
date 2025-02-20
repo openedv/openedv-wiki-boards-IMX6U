@@ -8,8 +8,8 @@ sidebar_position: 3
 &emsp;&emsp;ALPHA/Mini开发板已经兼容所有本公司的RGB LCD屏幕，由于屏幕存在id的关系，开发板上电自动识别屏幕，进行LCD触摸屏实验时请先断电插上RGB屏幕，再启动系统。
 
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>屏幕尺寸</th>
     <th>触摸芯片</th>

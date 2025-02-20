@@ -5,8 +5,8 @@ sidebar_position: 21
 
 # 3.21 icm20608测试
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>ALPHA</th>
     <th>MINI</th>

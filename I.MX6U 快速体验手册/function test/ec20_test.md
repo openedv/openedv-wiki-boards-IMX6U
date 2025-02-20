@@ -5,8 +5,8 @@ sidebar_position: 18
 
 # 3.18 EC20 4G模块上网测试
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>ALPHA</th>
     <th>MINI</th>
@@ -30,8 +30,8 @@ sidebar_position: 18
 
 &emsp;&emsp;默认状态下LED_WWAN对应的LED灯闪烁情况：
 
-<div class="center-table-div">
-<table class="center-table">
+<div class="imx6u_center-table-div">
+<table class="imx6u_center-table">
   <tr>
     <th>引脚工作状态</th>
     <th>所指示的网络状态</th>
