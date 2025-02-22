@@ -1,8 +1,8 @@
 {
-  "label": "I.MX6U 其他资料",
+  "label": "I.MX6U 更多资料",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description":"为了让大家更好的使用正点原子`I.MX6U-ALPHA`开发板，我们还提供更多服务，包括教学视频、资料下载、论坛讨论以及一对一技术咨询等"
+    "description":"为了让大家更好的使用正点原子I.MX6U-ALPHA开发板，我们还提供更多服务，包括教学视频、资料下载以及论坛讨论等"
   }
 }

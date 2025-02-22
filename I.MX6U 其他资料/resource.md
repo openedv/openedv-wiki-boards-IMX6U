@@ -1,5 +1,5 @@
 ---
-title: '其他资料'
+title: '更多资料'
 sidebar_position: 1
 ---
 
