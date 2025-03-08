@@ -26,8 +26,8 @@ tar xf systemui.tar.bz2
 
 ```c#
 cd systemui/
-./build.sh all	#直接执行此命令编译全部
-./build.sh cleanall	#直接执行此命令清除全部
+./build.sh all         #直接执行此命令编译全部
+./build.sh cleanall    #直接执行此命令清除全部
 ```
 &emsp;&emsp;编译全部如下。
 

@@ -31,11 +31,10 @@ source /opt/fsl-imx-x11/4.1.15-2.1.0/
 environment-setup-cortexa7hf-neon-poky-linux-gnueabi
 ```
 
-编译main.c文件，指令解释:
-
-（1）	$CC ：$是取值符号，取终端的环境变量CC的值.<br />
-（2）	main.c ：c文件<br />
-（3）	-o ：参数-o，后面加编译的目标文件
+&emsp;&emsp;编译main.c文件，指令解释:<br />
+&emsp;&emsp;（1）	$CC ：$是取值符号，取终端的环境变量CC的值.<br />
+&emsp;&emsp;（2）	main.c ：c文件<br />
+&emsp;&emsp;（3）	-o ：参数-o，后面加编译的目标文件
 ```c#
 $CC main.c -o main
 ```
