@@ -13,3 +13,58 @@
   text-align: center;
 }
 
+/* 表格容器设置 */
+.markdown-preview.markdown-preview {
+  overflow-x: auto; /* 启用滚动条 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+table {
+  table-layout: fixed; /* 固定列宽 ‌:ml-citation{ref="1,2" data="citationList"} */
+  width: 100%;
+  height: 800px;
+  border-collapse: collapse;
+}
+
+/* 固定表头（第一行） */
+thead th {
+  position: sticky;
+  top: 0;          /* 顶部固定 ‌:ml-citation{ref="1,2" data="citationList"} */
+  z-index: 5;      /* 层级最高 */
+  background: white;
+}
+
+/* 固定前三列 */
+td:nth-child(1),
+td:nth-child(2),
+td:nth-child(3) {
+  position: sticky;
+  background: white;
+  z-index: 4;      /* 低于表头 */
+}
+th:nth-child(1) {
+  z-index: 6;
+  left: 0;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+th:nth-child(2) {
+  z-index: 6;
+  left: 42px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+th:nth-child(3) {
+  z-index: 6;
+  left: 80px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+td:nth-child(1) {
+  left: 0;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+td:nth-child(2) {
+  left: 42px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+}
+td:nth-child(3) {
+  left: 80px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+}
+
+.row div {
+  max-width: 100%   !important;
+}
+
+
+
