@@ -44,21 +44,41 @@ th:nth-child(1) {
   z-index: 6;
   left: 0;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
 }
-th:nth-child(2) {
+.table1-6U table thead tr th:nth-child(2){
   z-index: 6;
-  left: 42px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+  left: 40px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
 }
-th:nth-child(3) {
+.table1-6U table thead tr th:nth-child(3) {
   z-index: 6;
   left: 80px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
 }
+.table2-6U table thead tr th:nth-child(2){
+  z-index: 6;
+  left: 40px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+.table2-6U table thead tr th:nth-child(3) {
+  z-index: 6;
+  left: 80px;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
+}
+
+
+
+
+
 td:nth-child(1) {
   left: 0;         /* 第一列左侧固定 ‌:ml-citation{ref="1,3" data="citationList"} */
 }
-td:nth-child(2) {
-  left: 42px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+.table1-6U table tbody tr td:nth-child(2) {
+  left: 40px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
 }
-td:nth-child(3) {
+.table1-6U table tbody tr td:nth-child(3){
+  left: 80px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+}
+
+.table2-6U table tbody tr td:nth-child(2) {
+  left: 40px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
+}
+.table2-6U table tbody tr td:nth-child(3){
   left: 80px;     /* 第二列根据第一列宽度偏移 ‌:ml-citation{ref="2,3" data="citationList"} */
 }
 
